@@ -12,7 +12,7 @@ I used a dataset with 7514 photos divided in 5 sections:
 
 Plastic / Metal --> Yellow container
 
-![Plastic Bottle_web](https://github.com/albertper000/Waste-Classifier/assets/159907564/22b8b068-f8cb-486f-9f33-0429531c66ab)
+![plastic35](https://github.com/albertper000/Waste-Classifier/assets/159907564/b1aa2d35-9989-4d17-9d08-3f9bcb583e07)
 
 ![metal2](https://github.com/albertper000/Waste-Classifier/assets/159907564/43555f40-4c40-4829-8817-ef8522a7972a)
 
